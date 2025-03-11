@@ -1,5 +1,3 @@
-# TZ25_HAKATHON_MED_TRIAGE
-A DEEP DIVE INTO MEDICAL TRIAGE WITH AGENTIC AI 
 Collecting workspace information# MediAssist - AI-Powered Healthcare Triage Platform
 
 MediAssist is an intelligent healthcare triage system that helps patients identify appropriate medical specialists based on their symptoms and facilitates remote consultations through video appointments.
